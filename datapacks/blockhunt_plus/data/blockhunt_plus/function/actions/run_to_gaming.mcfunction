@@ -1,0 +1,1 @@
+function blockhunt_plus:status_control/to_gaming with storage blockhunt_plus:config

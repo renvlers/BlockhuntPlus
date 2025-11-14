@@ -1,0 +1,1 @@
+data remove storage blockhunt_plus:maps maps

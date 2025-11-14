@@ -1,0 +1,13 @@
+function blockhunt_plus:initialization/create_memory_entity
+function blockhunt_plus:initialization/create_util_scoreboards
+
+function blockhunt_plus:initialization/reset_maps
+
+# Load maps
+function blockhunt_plus:maps/0_silent_manor
+
+function blockhunt_plus:initialization/load_config
+
+function blockhunt_plus:initialization/remove_teams
+
+function blockhunt_plus:status_control/to_lobby

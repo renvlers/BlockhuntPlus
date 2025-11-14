@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": {
+      "text": "寻藏大师地图数据包",
+      "bold": true,
+      "color": "#CCFF99"
+    },
+    "min_format": 88,
+    "max_format": 88
+  }
+}
